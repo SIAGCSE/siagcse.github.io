@@ -2,7 +2,7 @@
 
 
 <p align="center">
-<img src="/assets/siam-logo.jpg" width="150" height="100" />
+<img src="/assets/siam-logo.jpg" width="150"/>
 </p>
 
 The SIAM Activity Group on Computational Science and Engineering (SIAG/CSE) fosters collaboration and interaction among applied mathematicians, computer scientists, domain scientists and engineers in those areas of research related to the theory, development, and use of computational technologies for the solution of important problems in science and engineering. The activity group promotes computational science and engineering as an academic discipline and promotes simulation as a mode of scientific discovery on the same level as theory and experiment.
@@ -19,25 +19,16 @@ This report presents challenges, opportunities, and directions for computational
 
 [Read more](https://epubs.siam.org/doi/abs/10.1137/16M1096840)
 
-### **About**
+### **External Links**
 
-#### Officers (1/1/2023 - 31/12/2024)
-
-* Chair: [Judy Hill](https://people.llnl.gov/hill134) [(Email)](mailto:judy@llnl.gov)
-* Vice Chair: [Philipp Birken](https://www.maths.lu.se/staff/philipp-birken/) [(Email)](mailto:Philipp.birken@na.lu.se)
-* Program Director: [Edmund Chow](https://faculty.cc.gatech.edu/~echow/) [(Email)](mailto:echow@cc.gatech.edu)
-* Secretary: [Sara Pollock](https://people.clas.ufl.edu/spollock/) [(Email)](mailto:s.pollock@ufl.edu)
-
-#### External Links
-
-* [CS&E Homepage](https://www.siam.org/membership/activity-groups/detail/computational-science-and-engineering)
-* [SIAG/ CSE Mailing List](mailto:siam-cse@connectedcommunity.org)
-* [SIAM CS&E Books](http://www.siam.org/catalog/cs.php)
+* [SIAG/CSE Mailing List](mailto:siam-cse@connectedcommunity.org)
+* [SIAM SIAG/CSE Homepage](https://www.siam.org/membership/activity-groups/detail/computational-science-and-engineering)
+* [SIAM CSE Books](http://www.siam.org/catalog/cs.php)
 
 ### **Upcoming Events**
 
+* [SIAM CSE25](https://www.siam.org/conferences/cm/conference/cse25) - March 2-7, 2025, Fort Worth Convention Center, Fort Worth, TX
 * [Meetings in cooperation with SIAM](https://siam.org/conferences/calendar/cooperating-conferences)
-*  SIAM CSE25 - March 2-7, 2025, Fort Worth Convention Center, Fort Worth, TX
 
 ### **Past Events**
 

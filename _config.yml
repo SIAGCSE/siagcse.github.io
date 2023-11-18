@@ -1,1 +1,6 @@
-theme: jekyll-theme-cayman
+title: SIAG on Computational Science and Engineering
+description: >- # this means to ignore newlines until "baseurl:"
+  SIAM Activity Group on Computational Science and Engineering (SIAG/CSE)
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+theme: jekyll-theme-minimal
