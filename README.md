@@ -13,7 +13,7 @@ The SIAM Activity Group on Computational Science and Engineering (SIAG/CSE) fost
 * Program Director: [Edmond Chow](https://faculty.cc.gatech.edu/~echow/)
 * Secretary: [Sara Pollock](https://people.clas.ufl.edu/spollock/)
 
-### **2018 Report: Research and Education in Computational Science and Engineering (SIAM Review 60(3), 707–754, 2018;** [download PDF](/assets/2018_Report.pdf)
+### **2018 Report: Research and Education in Computational Science and Engineering (SIAM Review 60(3), 707–754, 2018)**
 
 #### Authors: 
 
@@ -23,13 +23,12 @@ Ulrich Ruede, Karen Willcox, Lois Curfman McInnes, Hans De Sterck, George Biros,
 
 This report presents challenges, opportunities, and directions for computational science and engineering (CSE) research and education for the next decade. Over the past two decades the field of CSE has penetrated both basic and applied research in academia, industry, and laboratories to advance discovery, optimize systems, support decision-makers, and educate the scientific and engineering workforce. Informed by centuries of theory and experiment, CSE performs computational experiments to answer questions that neither theory nor experiment alone is equipped to answer. CSE provides scientists and engineers with algorithmic inventions and software systems that transcend disciplines and scales. CSE brings the power of parallelism to bear on troves of data. Mathematics-based advanced computing has become a prevalent means of discovery and innovation in essentially all areas of science, engineering, technology, and society, and the CSE community is at the core of this transformation. However, a combination of disruptive developments---including the architectural complexity of extreme-scale computing, the data revolution and increased attention to data-driven discovery, and the specialization required to follow the applications to new frontiers---is redefining the scope and reach of the CSE endeavor. With these many current and expanding opportunities for the CSE field, there is a growing demand for CSE graduates and a need to expand CSE educational offerings. This need includes CSE programs at both the undergraduate and graduate levels, as well as continuing education and professional development programs, exploiting the synergy between computational science and data science. Yet, as institutions consider new and evolving educational programs, it is essential to consider the broader research challenges and opportunities that provide the context for CSE education and workforce development.
 
-[Read more](https://epubs.siam.org/doi/abs/10.1137/16M1096840)
+[Free pdf download](https://epubs.siam.org/doi/abs/10.1137/16M1096840)
 
 ### **External Links**
 
 * [SIAG/CSE Mailing List](mailto:siam-cse@connectedcommunity.org)
 * [SIAM SIAG/CSE Homepage](https://www.siam.org/membership/activity-groups/detail/computational-science-and-engineering)
-* [SIAM CSE Books](http://www.siam.org/catalog/cs.php)
 
 ### **Upcoming Events**
 
