@@ -1,5 +1,7 @@
+---
+layout: home
+---
 ## **SIAG on Computational Science and Engineering**
-
 
 <p align="center">
 <img src="/assets/siam-logo.jpg" width="150"/>
