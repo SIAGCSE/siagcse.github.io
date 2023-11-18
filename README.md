@@ -1,6 +1,3 @@
----
-layout: home
----
 ## **SIAG on Computational Science and Engineering**
 
 <p align="center">
@@ -8,6 +5,13 @@ layout: home
 </p>
 
 The SIAM Activity Group on Computational Science and Engineering (SIAG/CSE) fosters collaboration and interaction among applied mathematicians, computer scientists, domain scientists and engineers in those areas of research related to the theory, development, and use of computational technologies for the solution of important problems in science and engineering. The activity group promotes computational science and engineering as an academic discipline and promotes simulation as a mode of scientific discovery on the same level as theory and experiment.
+
+### Officers (1/1/2023 - 31/12/2024)
+
+* Chair: [Judy Hill](https://people.llnl.gov/hill134)
+* Vice Chair: [Philipp Birken](https://www.maths.lu.se/staff/philipp-birken/)
+* Program Director: [Edmond Chow](https://faculty.cc.gatech.edu/~echow/)
+* Secretary: [Sara Pollock](https://people.clas.ufl.edu/spollock/)
 
 ### **2018 Report: Research and Education in Computational Science and Engineering (SIAM Review 60(3), 707–754, 2018;** [download PDF](/assets/2018_Report.pdf)
 
