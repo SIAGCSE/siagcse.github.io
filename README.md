@@ -25,6 +25,18 @@ This report presents challenges, opportunities, and directions for computational
 
 [Free pdf download](https://epubs.siam.org/doi/abs/10.1137/16M1096840)
 
+### **SIAM Engage**
+
+SIAM Engage is an online forum for SIAM members, and in particular, SIAG CSE members. SIAM Engage
+lets you post messages and read messages from other members.
+
+* [SIAM Engage](https://engage.siam.org)
+
+After following the above link,
+sign in with your SIAM username using the button on the top right.
+Then navigate to the SIAG CSE Community. You can also set your email preferences
+if you wish to have messages delivered to you via email.
+
 ### **External Links**
 
 * [SIAG/CSE Mailing List](mailto:siam-cse@connectedcommunity.org)
