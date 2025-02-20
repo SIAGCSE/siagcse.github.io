@@ -6,12 +6,12 @@
 
 The SIAM Activity Group on Computational Science and Engineering (SIAG/CSE) fosters collaboration and interaction among applied mathematicians, computer scientists, domain scientists and engineers in those areas of research related to the theory, development, and use of computational technologies for the solution of important problems in science and engineering. The activity group promotes computational science and engineering as an academic discipline and promotes simulation as a mode of scientific discovery on the same level as theory and experiment.
 
-### Officers (1/1/2023 - 31/12/2024)
+### Officers (1/1/2025 - 31/12/2026)
 
-* Chair: [Judy Hill](https://people.llnl.gov/hill134)
-* Vice Chair: [Philipp Birken](https://www.maths.lu.se/staff/philipp-birken/)
-* Program Director: [Edmond Chow](https://faculty.cc.gatech.edu/~echow/)
-* Secretary: [Sara Pollock](https://people.clas.ufl.edu/spollock/)
+* Chair: [Julianne Chung](https://www.math.emory.edu/~jmchung/)
+* Vice Chair: [Edmond Chow](https://faculty.cc.gatech.edu/~echow/)
+* Program Director: [Sarah Knepper](mailto:sarah.knepper@intel.com)
+* Secretary: [Benjamin Peherstorfer](https://cims.nyu.edu/~pehersto/)
 
 ### **SIAM Engage**
 
@@ -53,6 +53,7 @@ This report presents challenges, opportunities, and directions for computational
 
 | Event         | Date                 |  Location   |           Chair(s) | Additional content | Attendence |
 |---------------|----------------------|-------------|--------------------|--------------------|------------|
+| [CSE25](https://www.siam.org/conferences-events/siam-conferences/cse25/)         | Mar 3 - 7, 2025 | Fort Worth, TX | David Bindel, Elizabeth Cherry, and Judith Hill    | -              |      -    |
 | [CSE23](https://www.siam.org/Conferences/CM/Conference/cse23/)         | Feb 26 - Mar 3, 2023 | Amsterdam, Netherlands | Karen Devine, Dirk Hartmann, and Wil Schilders    | -              |      -    |
 | [CSE21](https://www.siam.org/Conferences/CM/Conference/cse21/)         | March 1-5, 2021 | Online | Laura Grigori, Misha E. Kilmer, and Stefan M. Wild    | -              |      2542    |
 | [CSE19](https://www.siam.org/Conferences/CM/Conference/cse19/)         | Feb 25 - Mar 1, 2019 | Spokane, WA | Jeffrey Hittinger, Luke Olson, and Suzanne Shontz     | -              |   1895      |
